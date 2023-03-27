@@ -1,0 +1,39 @@
+{
+    "title": "Paramètres de confidentialité",
+    "body": "Nous utilisons des cookies et des technologies similaires nécessaires au fonctionnement du site Web. Les cookies supplémentaires ne sont utilisés qu'avec votre consentement. Nous utilisons les cookies supplémentaires pour effectuer des analyses de l'utilisation du site Web et pour vérifier l'efficacité des mesures de marketing. Ces analyses sont réalisées pour vous offrir une meilleure expérience utilisateur sur le site. Vous êtes libre de donner, de refuser ou de retirer votre consentement à tout moment en utilisant le lien \"paramètres des cookies\" en bas de chaque page. Vous pouvez consentir à notre utilisation des cookies en cliquant sur \"Accepter\". Pour plus d'informations sur les informations collectées et la manière dont elles sont partagées avec nos partenaires, veuillez lire notre --politique-de-confidentialite--.",
+    "privacyPolicy": "Déclaration de protection des données",
+    "legalNotice": "Mentions légales",
+    "mySettings": "Mes paramètres",
+    "buttonNotAgree": "Je ne suis pas d'accord",
+    "buttonAgree": "Accepter",
+    "buttonSaveSelection": "Enregistrer la sélection",
+    "buttonAgreeAll": "Accepter tout",
+    "categories": {
+        "necessary": {
+            "title": "Nécessaire",
+            "description": [
+                "Requis pour faire fonctionner le site Web"
+            ]
+        },
+        "statistics": {
+            "title": "Statistiques",
+            "description": [
+                "Suivi de l'utilisation du site Web et optimisation de l'expérience utilisateur"
+            ]
+        },
+        "marketing": {
+            "title": "Marketing",
+            "description": [
+                "Évaluation des actions marketing"
+            ]
+        },
+        "personalization": {
+            "title": "Personalisation",
+            "description": [
+                "Stockage de vos préférences des visites précédentes",
+                "Recueillir les commentaires des utilisateurs pour améliorer notre site Web",
+                "Enregistrement de vos centres d'intérêt afin de fournir des contenus et des offres personnalisés"
+            ]
+        }
+    }
+}
